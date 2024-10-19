@@ -8,8 +8,10 @@ Integrantes:
 - 
     
 ## Requisitos do Ambiente
-
-- pandas 
+-
+- python 3.9
+- pandas 2.2.3
+- 
 
 
 ## Configuração
