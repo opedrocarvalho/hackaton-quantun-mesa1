@@ -1,6 +1,16 @@
 # Hackaton-Quantum-Grupo1
 
+Integrantes:
+
+- 
+- 
+- Luis Armando Quintanilla Villon
+- 
+    
 ## Requisitos do Ambiente
+
+
+
 
 ## Configuração
 
