@@ -2,7 +2,7 @@
 
 Integrantes:
 
-- 
+- Pedro Medeiros Pereira Carvalho
 - 
 - Luis Armando Quintanilla Villon
 - 
