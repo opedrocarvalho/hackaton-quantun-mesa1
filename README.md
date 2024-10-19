@@ -2,10 +2,10 @@
 
 Integrantes:
 
-- Pedro Medeiros Pereira Carvalho
-- 
-- Luis Armando Quintanilla Villon
-- 
+- Pedro Carvalho
+- João Nepomuceno
+- Luis Villon
+- João Marquardt
     
 ## 1. Requisitos do Ambiente
 
