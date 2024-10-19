@@ -12,7 +12,7 @@ Integrantes:
 Requisitos e dependencias do projeto:
 - Python 3.11
 - Pandas 2.2.3
-- VSCode 
+- VSCode 1.92
 
 
 ## 2. Configuração do Ambiente
