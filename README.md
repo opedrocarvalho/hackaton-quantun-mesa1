@@ -6,9 +6,9 @@
 
 ## Execução e descrição do programa
 
-### Dados Qualitativos
+### Dados Qualitativos - Tabela 1
 
-### Dados Quantitativos
+### Dados Quantitativos - Tabela 2
 
-## Tabela 3: histórico de valores
+### Histórico de valores - Tabela 3
 
