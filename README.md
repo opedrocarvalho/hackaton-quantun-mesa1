@@ -9,7 +9,7 @@ Integrantes:
     
 ## Requisitos do Ambiente
 
-
+- pandas 
 
 
 ## Configuração
