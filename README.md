@@ -8,13 +8,16 @@ Integrantes:
 - 
     
 ## 1. Requisitos do Ambiente
--
+
+Requisitos e dependencias do projeto:
 - python 3.9
 - pandas 2.2.3
-- 
+
 
 
 ## 2. Configuração do Ambiente
+
+
 
 ## 3. Execução e descrição do programa
 
