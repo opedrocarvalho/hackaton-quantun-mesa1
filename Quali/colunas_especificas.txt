@@ -1,0 +1,114 @@
+Legal Fund Name Including Umbrella
+Fund Code
+Citi Code
+ISIN
+WKN
+20000_Financial_Instrument_Identifying_Data
+EPT Portfolio Name
+EPT Portfolio or Share Class Currency
+EPT PRIIPs KID Publication Date
+EPT Reference Language
+EPT Valuation Frequency
+EPT Summary Risk Indicator
+EPT Is SRI Adjusted
+EPT Market Risk Measure
+EPT Credit Risk Measure
+EPT Recommended Holding Period
+EPT Number Of Observed Returns
+EPT Reference Invested Amount
+EPT Ongoing Costs Management Fees and Other Administrative or Operating Costs
+EPT Portfolio Transaction Costs
+EPT Target Market Retail Investor Type
+EPT Investment Objective
+EPT Risk Narrative
+EPT Other Risk Narrative
+EPT Investment Option
+Portfolio Turnover Ratio
+Portfolio Turnover Ratio Date
+FE Group Name
+Unit Status
+Company Contact Address
+Company Contact E-Mail
+Company Contact Post Code
+Company Contact Telephone
+Company Contact Web Address
+FE Fund Name
+Sub Category
+Main Category
+Global Fund Classification
+Has Performance Fee
+Performance Fee Applied
+Custodian Fee Applied
+Subscription Fee Maximum
+Redemption Fee Maximum
+Management Fee Applied
+Management Fee Applied Reference Date
+Management Fee Maximum
+TER Excluding Performance Fee
+TER Excluding Performance Fee Date
+TER Including Performance Fee
+TER Including Performance Fee Date
+Has Ongoing Charges
+Ongoing Charges
+Ongoing Charges Date
+Distribution Fee
+Has Separate Distribution Fee
+Distribution Fee Reference Date
+Minimal Subscription Category
+Minimal Initial Subscription In Shares
+Minimal Initial Subscription In Amount
+Currency Of Minimal Subscription
+Minimal Subsequent Subscription Category
+Minimal Subsequent Subscription In Shares
+Minimal Subsequent Subscription In Amount
+Maximal Number Of Possible Decimals NAV
+Settlement Period For Subscription
+EFAMA Main EFC Category
+EFAMA Active EFC Classification
+Is EU Directive Relevant
+Type Of EU Directive
+UCITS Version
+Legal Form
+Launch Price
+Launch Price Currency
+Launch Price Date
+Listing Currency
+Valor
+Share Class Extension
+Full Share Class Name
+Abbreviated Share Class Name
+Valuation Frequency
+Share Class Distribution Policy
+Share Class Currency
+Share Class Lifecycle
+Share Class Launch Date
+Investment Status
+Benchmark
+SRRI
+Record Date For SRRI
+CurrencyHedgeShareClassIdentifier
+DistributionDeclarationFrequencyIdentifier
+Asset Class
+Sector Names
+Fund Domicile Alpha-2
+Legal Fund Name Only
+Fund Launch Date
+Investment Objective in English
+Fund Currency
+Open-ended Or Closed-ended Fund Structure
+CurrencyHedgePortfolioIdentifier
+Domicile
+Has Umbrella
+Umbrella
+Domicile Of Umbrella
+Fund Group Name
+ManCo
+Domicile Of ManCo
+Fund Administrator Name
+Custodian Bank Name
+Portfolio Managing Company Name
+Transfer Agent Name
+Auditor Name
+Fund Promoter Name
+Exit Charge
+Is ETF
