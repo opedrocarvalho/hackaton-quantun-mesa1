@@ -20,6 +20,7 @@ Requisitos e dependencias do projeto:
 Configuramos o ambiente para rodar o programa. Instalamos as dependencias:
 
 pip install pandas
+
 Jupyter Notebook no VSCode
 
 ## 3. Execução e descrição do programa
