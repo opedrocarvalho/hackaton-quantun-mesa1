@@ -17,7 +17,12 @@ Requisitos e dependencias do projeto:
 
 ## 2. Configuração do Ambiente
 
+Configuramos o ambiente para rodar o programa. Instalamos as dependencias:
 
+
+```
+pip install -r requirements.txt
+```
 
 ## 3. Execução e descrição do programa
 
