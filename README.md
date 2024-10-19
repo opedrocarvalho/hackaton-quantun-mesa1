@@ -23,13 +23,7 @@ Configuramos o ambiente para rodar o programa. Instalamos as dependencias necess
 pip install pandas
 ```
 
-Ulizamos Jupyter Notebook no VSCode para executar os scripts.
+Utilizamos Jupyter Notebook no VSCode para executar os scripts.
 
-## 3. Execução e descrição do programa
 
-### 3.1. Dados Qualitativos - Tabela 1
-
-### 3.2. Dados Quantitativos - Tabela 2
-
-### 3.3. Histórico de valores - Tabela 3
-
+Os arquivos foram ingeridos localmente, portando, fazer as cópias dos arquivos para a máquina que irá rodar os notebooks.
