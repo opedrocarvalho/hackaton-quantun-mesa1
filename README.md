@@ -7,20 +7,20 @@ Integrantes:
 - Luis Armando Quintanilla Villon
 - 
     
-## Requisitos do Ambiente
+## 1. Requisitos do Ambiente
 -
 - python 3.9
 - pandas 2.2.3
 - 
 
 
-## Configuração
+## 2. Configuração do Ambiente
 
-## Execução e descrição do programa
+## 3. Execução e descrição do programa
 
-### Dados Qualitativos - Tabela 1
+### 3.1. Dados Qualitativos - Tabela 1
 
-### Dados Quantitativos - Tabela 2
+### 3.2. Dados Quantitativos - Tabela 2
 
-### Histórico de valores - Tabela 3
+### 3.3. Histórico de valores - Tabela 3
 
